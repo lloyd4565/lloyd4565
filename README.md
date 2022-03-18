@@ -7,7 +7,7 @@
  <a href="https://github.com/lloyd4565">
 <a href="https://rebrand.ly/Public Nuisance"><img title="YouTube" src="https://img.shields.io/badge/YouTube-PUBLIC NUISANCE-red?style=for-the-badge&logo=Youtube"></a>
   
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Nuisance's+GitHub&font=Fira%20Code&center=true&width=380&height=50">
+                     #**WELCOME TO MY REPO**
 
 - 👋 Hi, I’m **NUISANCE**
 
